@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da75c7c2-46ec-45b3-85d2-7244ff1e66d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/The Sum Of Dice/Main.class" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,22 +20,19 @@
   </component>
   <component name="ProjectId" id="1bfMpaB1DeeTWsfPbPlUia8gwit" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589018877390</updated>
       <workItem from="1589018884666" duration="326000" />
+      <workItem from="1589021002819" duration="1973000" />
     </task>
     <servers />
   </component>
@@ -56,10 +57,30 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="98" key="#Project_Structure" timestamp="1589021395232">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="98" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1589021395232" />
+    <state x="140" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589021060811">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="140" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1589021060811" />
+    <state x="536" y="328" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589021018464">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="536" y="328" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1368.872@0.0.1368.872" timestamp="1589021018464" />
+    <state x="358" y="150" key="FileChooserDialogImpl" timestamp="1589021392389">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="358" y="150" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1589021392389" />
   </component>
 </project>
