@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da75c7c2-46ec-45b3-85d2-7244ff1e66d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/The Sum Of Dice/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +39,16 @@
       <option name="presentableId" value="Default" />
       <updated>1589018877390</updated>
       <workItem from="1589018884666" duration="326000" />
-      <workItem from="1589021002819" duration="1973000" />
+      <workItem from="1589021002819" duration="2104000" />
     </task>
+    <task id="LOCAL-00001" summary="save">
+      <created>1589027974439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589027974439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +67,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="save" />
+    <option name="LAST_COMMIT_MESSAGE" value="save" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="277" y="98" key="#Project_Structure" timestamp="1589021395232">
       <screen x="0" y="0" width="1368" height="872" />
@@ -78,6 +84,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="536" y="328" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1368.872@0.0.1368.872" timestamp="1589021018464" />
+    <state x="305" y="35" key="CommitChangelistDialog2" timestamp="1589027973072">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="305" y="35" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1589027973072" />
     <state x="358" y="150" key="FileChooserDialogImpl" timestamp="1589021392389">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
